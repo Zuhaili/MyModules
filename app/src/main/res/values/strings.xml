@@ -2,4 +2,6 @@
     <string name="app_name">My Modules</string>
     <string name="C346">C346 Android programming</string>
     <string name="C349">C349 ipad Programming</string>
+    <string name="textview">TextView</string>
+    <string name="back">Back</string>
 </resources>

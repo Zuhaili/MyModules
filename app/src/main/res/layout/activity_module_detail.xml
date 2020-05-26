@@ -9,35 +9,12 @@
         android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="TextView" />
+        android:text="@string/textview" />
 
-    <TextView
-        android:id="@+id/textViewModuleCode"
+    <Button
+        android:id="@+id/buttonBack"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:text="@string/back" />
 
-    <TextView
-        android:id="@+id/textViewModulename"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
-
-    <TextView
-        android:id="@+id/textViewAcademicYear"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
-
-    <TextView
-        android:id="@+id/textViewSemester"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
-
-    <TextView
-        android:id="@+id/textViewModuleCredit"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
-
-    <TextView
-        android:id="@+id/textViewVenue"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
 </LinearLayout>
